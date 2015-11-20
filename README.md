@@ -6,7 +6,7 @@ WordPress child theme starter. https://codex.wordpress.org/Child_Themes
 * Replace the following stylesheet header information relevant to your theme (mandatory)
 
 ```
-Theme Name: Twenty Fourteen Child
+Theme Name: Twenty Fifteen Child
 Template: twentyfifteen
 ```
 
