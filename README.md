@@ -1,5 +1,8 @@
-# childtheme
-WordPress child theme starter. https://codex.wordpress.org/Child_Themes
+# WordPress child theme starter
+Built for very early theme adopters who want to do customizing works on their WordPress site.
+More about child theming:
+
+* [WordPress.org](http://code.tutsplus.com/tutorials/creating-child-themes-for-your-wordpress-theme-framework--cms-21933)
 
 # Usage
 * Open style.css file
